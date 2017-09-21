@@ -1,2 +1,5 @@
 # hello-world
-Test repository
+
+Testing Git-hub
+
+Trying to learn something new in this world full of troubles.
